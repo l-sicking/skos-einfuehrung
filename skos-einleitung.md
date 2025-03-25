@@ -41,8 +41,8 @@ SKOS basiert auf dem graph-orientierten Datenmodell [Resource Description Framew
 
 ## Verwendungszwecke
 
-- Als Autor\*in oder Herausgeber\*in können sie SKOS nutzen um ihre Publikationen mit eindeutigen Begriffen statt mit freien, mehrdeutigen Schlagwörtern **inhaltlich zu beschreiben**. Beispielsweise können sie als Lehrende\*r ihre Lehrmaterialien geeigneten Einträgen aus vorhandenen SKOS-Vokabularen wie dem [Standard-Thesaurus Wirtschaft](https://zbw.eu/stw/) und der [Destatis-Systematik der Studienfächer](https://w3id.org/kim/hochschulfaechersystematik/scheme)) zuzuordnen.
-- Wenn sie als als Herausgeber\*in oder Bibliothekar\*in eine Sammlung von Publikationen verwalten, beispielsweise ein Hochschulrepositorium, können sie die Materialien mit SKOS-Vokabularen **einheitlich erschließen**.
+- Als Autor\*in oder Herausgeber\*in können Sie SKOS nutzen um ihre Publikationen mit eindeutigen Begriffen statt mit freien, mehrdeutigen Schlagwörtern **inhaltlich zu beschreiben**. Beispielsweise können Sie als Lehrende\*r ihre Lehrmaterialien geeigneten Einträgen aus vorhandenen SKOS-Vokabularen wie dem [Standard-Thesaurus Wirtschaft](https://zbw.eu/stw/) und der [Destatis-Systematik der Studienfächer](https://w3id.org/kim/hochschulfaechersystematik/scheme)) zuzuordnen.
+- Wenn Sie als als Herausgeber\*in oder Bibliothekar\*in eine Sammlung von Publikationen verwalten, beispielsweise ein Hochschulrepositorium, können Sie die Materialien mit SKOS-Vokabularen **einheitlich erschließen**.
 - Als Entwickler\*in von Infrastruktur und Software zum Erstellen, Publizieren oder Teilen von OER oder anderen Publikationen können Sie SKOS-Vokabulare einbetten oder sogar die Erstellung von SKOS-Vokabularen in der Software unterstützen, um Metadaten-Werte **kontrolliert zu erfassen**.
 
 ## Vorteile
